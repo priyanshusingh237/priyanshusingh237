@@ -1,18 +1,8 @@
 ## Hi there 👋
-
 - 🔭 I’m currently a Student.
-- 🌱 I’m currently learning Programming.
-  
+- 🌱 I’m currently learning Programming. 
 - 🤔 I’m looking for coding partner.
   
-  
--->
-## Hi there 👋
-
-🌱🌺🌵
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanxu_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-singh-ppm)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshusingh10688@gmail.com) 
 
