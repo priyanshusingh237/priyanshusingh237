@@ -43,26 +43,7 @@ I’m looking for coding partner.
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-
-
-
-
-
-<h2>💖 Support My Work</h2>
-
-<p>Hi, I'm Priyanshu Singh, a BCA student learning Programming and Cybersecurity.</p>
-
-<p>If you find my projects helpful, you can support my learning journey through UPI. Every contribution is appreciated! ❤️</p>
-
-<a href="upi://pay?pa=priyanshusingh10688@okaxis&pn=Priyanshu%20Singh&cu=INR">
-  <img src="https://img.shields.io/badge/Support%20Me-UPI-green?style=for-the-badge" alt="Support Me via UPI">
-</a>
-
-<p><b>UPI ID:</b> priyanshusingh10688@okaxis</p>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snakeanimationn.
 
 
 ---
